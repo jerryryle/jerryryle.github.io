@@ -8,4 +8,4 @@ title: "Jerry's Github Page"
 # Pranks
 * [A-Roma: A 4-channel scent dispenser for harassing my boss](a-roma/)
 * [ODKey: A USB HID macro key, with a fun WiFi backdoor](odkey/)
-* [BleatBox: A screaming tissue dispenser](bleatbox/)
+* [BleatBox: A goat-oriented, screaming tissue dispenser](bleatbox/)
